@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Bedlam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|C:\\Bedlam\\packages\\com.lmnt.unity\\editor\\lmntspeechinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|solutionrelative:packages\\com.lmnt.unity\\editor\\lmntspeechinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|c:\\bedlam\\packages\\com.lmnt.unity\\editor\\configurewindow.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|solutionrelative:packages\\com.lmnt.unity\\editor\\configurewindow.uss||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|c:\\bedlam\\packages\\com.lmnt.unity\\editor\\configurewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|solutionrelative:packages\\com.lmnt.unity\\editor\\configurewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|C:\\Bedlam\\packages\\com.lmnt.unity\\editor\\vsattribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|solutionrelative:packages\\com.lmnt.unity\\editor\\vsattribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigureWindow.uss",
+              "DocumentMoniker": "C:\\Bedlam\\Packages\\com.lmnt.unity\\Editor\\ConfigureWindow.uss",
+              "RelativeDocumentMoniker": "Packages\\com.lmnt.unity\\Editor\\ConfigureWindow.uss",
+              "ToolTip": "C:\\Bedlam\\Packages\\com.lmnt.unity\\Editor\\ConfigureWindow.uss",
+              "RelativeToolTip": "Packages\\com.lmnt.unity\\Editor\\ConfigureWindow.uss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-18T17:28:48.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigureWindow.cs",
+              "DocumentMoniker": "C:\\Bedlam\\Packages\\com.lmnt.unity\\Editor\\ConfigureWindow.cs",
+              "RelativeDocumentMoniker": "Packages\\com.lmnt.unity\\Editor\\ConfigureWindow.cs",
+              "ToolTip": "C:\\Bedlam\\Packages\\com.lmnt.unity\\Editor\\ConfigureWindow.cs",
+              "RelativeToolTip": "Packages\\com.lmnt.unity\\Editor\\ConfigureWindow.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:28:40.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VSAttribution.cs",
+              "DocumentMoniker": "C:\\Bedlam\\Packages\\com.lmnt.unity\\Editor\\VSAttribution.cs",
+              "RelativeDocumentMoniker": "Packages\\com.lmnt.unity\\Editor\\VSAttribution.cs",
+              "ToolTip": "C:\\Bedlam\\Packages\\com.lmnt.unity\\Editor\\VSAttribution.cs",
+              "RelativeToolTip": "Packages\\com.lmnt.unity\\Editor\\VSAttribution.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:26:13.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LMNTSpeechInspector.cs",
+              "DocumentMoniker": "C:\\Bedlam\\Packages\\com.lmnt.unity\\Editor\\LMNTSpeechInspector.cs",
+              "RelativeDocumentMoniker": "Packages\\com.lmnt.unity\\Editor\\LMNTSpeechInspector.cs",
+              "ToolTip": "C:\\Bedlam\\Packages\\com.lmnt.unity\\Editor\\LMNTSpeechInspector.cs",
+              "RelativeToolTip": "Packages\\com.lmnt.unity\\Editor\\LMNTSpeechInspector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:25:57.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

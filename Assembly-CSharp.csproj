@@ -1094,6 +1094,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="lmnt.unity.editor.csproj">
+      <Project>{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}</Project>
+      <Name>lmnt.unity.editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="lmnt.unity.runtime.csproj">
+      <Project>{11630E59-C8BC-7012-53A2-78AD7145F8D2}</Project>
+      <Name>lmnt.unity.runtime</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
