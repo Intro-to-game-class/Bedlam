@@ -67,6 +67,7 @@
   <ItemGroup>
     <Compile Include="Assets/Miles.cs" />
     <Compile Include="Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs" />
+    <Compile Include="Assets/Sanity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Resources/LMNT_API_Key.txt" />
