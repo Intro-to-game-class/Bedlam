@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{E78B8140-1305-6D7F-6DBB-1C277220CA76}|Assembly-CSharp.csproj|solutionrelative:assets\\miles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11630E59-C8BC-7012-53A2-78AD7145F8D2}|lmnt.unity.runtime.csproj|c:\\bedlam\\packages\\com.lmnt.unity\\runtime\\lmntspeech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11630E59-C8BC-7012-53A2-78AD7145F8D2}|lmnt.unity.runtime.csproj|C:\\Bedlam\\packages\\com.lmnt.unity\\runtime\\lmntspeech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11630E59-C8BC-7012-53A2-78AD7145F8D2}|lmnt.unity.runtime.csproj|solutionrelative:packages\\com.lmnt.unity\\runtime\\lmntspeech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Packages\\com.lmnt.unity\\Runtime\\LMNTSpeech.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T16:23:27.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T16:23:27.701Z"
             },
             {
               "$type": "Document",
