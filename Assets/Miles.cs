@@ -15,7 +15,6 @@ public class Miles : MonoBehaviour
 
     void Update()
     {
-        speech.dialogue = "Hi I'm Miles";
         StartCoroutine(speech.Talk());
     }
 }
