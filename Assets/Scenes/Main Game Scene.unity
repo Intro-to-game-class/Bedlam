@@ -2033,7 +2033,7 @@ GameObject:
   - component: {fileID: 737626728}
   - component: {fileID: 737626727}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: Miles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
