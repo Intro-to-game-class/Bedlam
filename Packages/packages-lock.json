@@ -7,13 +7,12 @@
       "dependencies": {}
     },
     "com.soupday.cc3_unity_tools": {
-      "version": "https://github.com/soupday/CCiC-Unity-Tools.git",
+      "version": "file:../Character_Creator_and_iClone_Auto_Setup_1.4.6_for_Unity_HDRP12",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
-        "com.unity.collab-proxy": "1.14.12"
-      },
-      "hash": "7dddc4366e4701f8143a2a538861c88ec99d59b6"
+        "com.unity.render-pipelines.high-definition": "12.0.0"
+      }
     },
     "com.unity.burst": {
       "version": "1.8.13",

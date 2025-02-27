@@ -12,13 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2686e09ec7aef44bad2843e4416f057, type: 3}
   m_Name: RL_Teeth_Profile
   m_EditorClassIdentifier: 
-  m_Version: 1
   profile:
-    scatteringDistance: {r: 0.6509804, g: 0.48235294, b: 0.39607844, a: 1}
+    scatteringDistance: {r: 0.7490196, g: 0.55499643, b: 0.45572877, a: 1}
+    scatteringDistanceMultiplier: 0.86911
     transmissionTint: {r: 0.6509804, g: 0.48235294, b: 0.39607844, a: 1}
     texturingMode: 0
+    smoothnessMultipliers: {x: 1, y: 1}
+    lobeMix: 0.5
+    diffuseShadingPower: 1
     transmissionMode: 1
     thicknessRemap: {x: 0, y: 5}
     worldScale: 1
     ior: 1.54
     hash: 1081974762
+  m_Version: 2
