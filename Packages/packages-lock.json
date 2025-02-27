@@ -6,6 +6,14 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "com.soupday.cc3_unity_tools": {
+      "version": "file:C:/Users/e3845009/OneDrive - Dallas College/intro to game/cc4unity/Character_Creator_and_iClone_Auto_Setup_1.4.6_for_Unity_HDRP12",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.render-pipelines.high-definition": "12.0.0"
+      }
+    },
     "com.unity.burst": {
       "version": "1.8.13",
       "depth": 1,

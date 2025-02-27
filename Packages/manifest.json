@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.soupday.cc3_unity_tools": "file:C:/Users/e3845009/OneDrive - Dallas College/intro to game/cc4unity/Character_Creator_and_iClone_Auto_Setup_1.4.6_for_Unity_HDRP12",
     "com.unity.collab-proxy": "2.6.0",
     "com.unity.feature.development": "1.0.2",
     "com.unity.probuilder": "5.2.3",
