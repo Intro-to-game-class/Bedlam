@@ -65,11 +65,11 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/2023.2.20f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Packages/com.lmnt.unity/Runtime/LMNTLoader.cs" />
     <Compile Include="Packages/com.lmnt.unity/Runtime/DialogueTriggerScript.cs" />
     <Compile Include="Packages/com.lmnt.unity/Runtime/TinyJson.cs" />
-    <Compile Include="Packages/com.lmnt.unity/Runtime/LMNTSpeech.cs" />
     <Compile Include="Packages/com.lmnt.unity/Runtime/Constants.cs" />
+    <Compile Include="Packages/com.lmnt.unity/Runtime/LMNTLoader.cs" />
+    <Compile Include="Packages/com.lmnt.unity/Runtime/LMNTSpeech.cs" />
     <Compile Include="Packages/com.lmnt.unity/Runtime/Voice.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -562,6 +562,14 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
       <HintPath>Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>Library/PackageCache/com.unity.nuget.mono-cecil@1.11.4/Mono.Cecil.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Collections.LowLevel.ILSupport">
+      <HintPath>Library/PackageCache/com.unity.collections@1.4.0/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">

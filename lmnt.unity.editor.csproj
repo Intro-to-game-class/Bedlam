@@ -66,8 +66,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Packages/com.lmnt.unity/Editor/VSAttribution.cs" />
-    <Compile Include="Packages/com.lmnt.unity/Editor/LMNTSpeechInspector.cs" />
     <Compile Include="Packages/com.lmnt.unity/Editor/ConfigureWindow.cs" />
+    <Compile Include="Packages/com.lmnt.unity/Editor/LMNTSpeechInspector.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Packages/com.lmnt.unity/Editor/LMNT Speech Inspector.uxml" />
@@ -566,6 +566,14 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
       <HintPath>Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>Library/PackageCache/com.unity.nuget.mono-cecil@1.11.4/Mono.Cecil.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Collections.LowLevel.ILSupport">
+      <HintPath>Library/PackageCache/com.unity.collections@1.4.0/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
