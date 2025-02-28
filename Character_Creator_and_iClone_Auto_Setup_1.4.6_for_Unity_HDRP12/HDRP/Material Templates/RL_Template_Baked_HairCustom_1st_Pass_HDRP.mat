@@ -74,6 +74,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_b7dd6d548cab4312a8b6e729fb7e3a32_Out_0_Texture2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -96,16 +100,21 @@ Material:
     - _AlphaToMask: 1
     - _AlphaToMaskInspectorValue: 1
     - _BlendMode: 0
+    - _ConservativeDepthOffsetEnable: 0
     - _CullMode: 0
     - _CullModeForward: 0
     - _DepthOffsetEnable: 0
     - _DoubleSidedEnable: 1
+    - _DoubleSidedGIMode: 0
     - _DoubleSidedNormalMode: 2
     - _DstBlend: 0
+    - _DstBlend2: 0
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
+    - _ExcludeFromTUAndAA: 0
     - _NormalStrength: 1
     - _OpaqueCullMode: 2
+    - _PerPixelSorting: 0
     - _ReceivesSSR: 1
     - _ReceivesSSRTransparent: 0
     - _RenderQueueType: 1
@@ -125,10 +134,10 @@ Material:
     - _StencilRefGBuffer: 10
     - _StencilRefMV: 40
     - _StencilWriteMask: 6
-    - _StencilWriteMaskDepth: 8
+    - _StencilWriteMaskDepth: 9
     - _StencilWriteMaskDistortionVec: 4
     - _StencilWriteMaskGBuffer: 14
-    - _StencilWriteMaskMV: 40
+    - _StencilWriteMaskMV: 43
     - _SupportDecals: 1
     - _SurfaceType: 0
     - _TransparentBackfaceEnable: 1

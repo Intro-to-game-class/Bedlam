@@ -100,6 +100,7 @@ Material:
     - _BaseColorStrength: 1
     - _BlendMode: 0
     - _BlendStrength: 1
+    - _ConservativeDepthOffsetEnable: 0
     - _CullMode: 0
     - _CullModeForward: 2
     - _DepthOffsetEnable: 0
@@ -107,12 +108,15 @@ Material:
     - _DepthPrepass: 0.666
     - _DiffuseStrength: 1
     - _DoubleSidedEnable: 1
+    - _DoubleSidedGIMode: 0
     - _DoubleSidedNormalMode: 2
     - _DstBlend: 10
+    - _DstBlend2: 10
     - _ENUMCLIPQUALITY_ON: 0
     - _EnableBlendModePreserveSpecularLighting: 0
     - _EnableFogOnTransparent: 1
     - _EndColorStrength: 1
+    - _ExcludeFromTUAndAA: 0
     - _FlowMapFlipGreen: 0
     - _GlobalStrength: 1
     - _HighlightAOverlapEnd: 1
@@ -125,6 +129,7 @@ Material:
     - _InvertRootMap: 0
     - _NormalStrength: 1
     - _OpaqueCullMode: 2
+    - _PerPixelSorting: 0
     - _ReceivesSSR: 1
     - _ReceivesSSRTransparent: 0
     - _RenderQueueType: 4
@@ -148,10 +153,10 @@ Material:
     - _StencilRefGBuffer: 2
     - _StencilRefMV: 32
     - _StencilWriteMask: 6
-    - _StencilWriteMaskDepth: 8
+    - _StencilWriteMaskDepth: 9
     - _StencilWriteMaskDistortionVec: 4
     - _StencilWriteMaskGBuffer: 14
-    - _StencilWriteMaskMV: 40
+    - _StencilWriteMaskMV: 43
     - _SupportDecals: 1
     - _SurfaceType: 1
     - _TransparentBackfaceEnable: 1
