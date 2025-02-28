@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 618b94a41cc51e54da4787f6308cc9e9
+timeCreated: 1474910527
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71395
+  packageName: Platform Builder Pro
+  packageVersion: 1.1.0
+  assetPath: Assets/platform-builder-pro/Demo/models/Materials/RollerBallWhite.mat
+  uploadId: 521641

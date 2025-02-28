@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2e720e18f9ae454fa4d19e06039f067
+timeCreated: 1473649630
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71395
+  packageName: Platform Builder Pro
+  packageVersion: 1.1.0
+  assetPath: Assets/platform-builder-pro/Demo/meshes/Materials/Platform_4Mat.mat
+  uploadId: 521641

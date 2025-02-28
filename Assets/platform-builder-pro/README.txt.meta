@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61739f9ec1b236a48905134ee699259e
+timeCreated: 1473481047
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71395
+  packageName: Platform Builder Pro
+  packageVersion: 1.1.0
+  assetPath: Assets/platform-builder-pro/README.txt
+  uploadId: 521641

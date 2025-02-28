@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6d1ca830677494671835feeb94bb0025
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71395
+  packageName: Platform Builder Pro
+  packageVersion: 1.1.0
+  assetPath: Assets/platform-builder-pro/Demo/prefabs/Platform.prefab
+  uploadId: 521641
