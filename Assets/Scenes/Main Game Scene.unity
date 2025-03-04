@@ -3116,7 +3116,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8464503518894068676, guid: 0e41f7dcbb968b542a553a1169ec0ee5, type: 3}
       propertyPath: m_Name
-      value: psychaitrist2
+      value: Psychaitrist2
       objectReference: {fileID: 0}
     - target: {fileID: 9096186811415906686, guid: 0e41f7dcbb968b542a553a1169ec0ee5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3161,7 +3161,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8464503518894068676, guid: 0e41f7dcbb968b542a553a1169ec0ee5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1936606372}
+    - targetCorrespondingSourceObject: {fileID: 8464503518894068676, guid: 0e41f7dcbb968b542a553a1169ec0ee5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1936606371}
+    - targetCorrespondingSourceObject: {fileID: 8464503518894068676, guid: 0e41f7dcbb968b542a553a1169ec0ee5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1936606370}
+    - targetCorrespondingSourceObject: {fileID: 8464503518894068676, guid: 0e41f7dcbb968b542a553a1169ec0ee5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1936606369}
+    - targetCorrespondingSourceObject: {fileID: 8464503518894068676, guid: 0e41f7dcbb968b542a553a1169ec0ee5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1936606368}
+    - targetCorrespondingSourceObject: {fileID: 8464503518894068676, guid: 0e41f7dcbb968b542a553a1169ec0ee5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1936606367}
+    - targetCorrespondingSourceObject: {fileID: 8464503518894068676, guid: 0e41f7dcbb968b542a553a1169ec0ee5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1936606366}
   m_SourcePrefab: {fileID: 100100000, guid: 0e41f7dcbb968b542a553a1169ec0ee5, type: 3}
 --- !u!1 &145312166
 GameObject:
@@ -5730,6 +5751,112 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 150.32, y: 180.813, z: 2.6809998}
+--- !u!1 &269352105 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e113d6656d5782849a0c0f56ec4191eb, type: 3}
+  m_PrefabInstance: {fileID: 1969076261}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &269352108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 269352105}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3908ae7ce86594faed50c6a521058c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!136 &269352109
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 269352105}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 2
+  m_Direction: 1
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &269352110
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 269352105}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_RenderingLayerMask: 257
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &269352111
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 269352105}
+  m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &269352112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 269352105}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b40e181ef7f384f5e895d4dc3eee0702, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  voice: Daniel
+  _dialogue: I am Psychiatrist1
 --- !u!1 &298793381
 GameObject:
   m_ObjectHideFlags: 0
@@ -45132,6 +45259,138 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &1936606363 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8464503518894068676, guid: 0e41f7dcbb968b542a553a1169ec0ee5, type: 3}
+  m_PrefabInstance: {fileID: 139394265}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1936606366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936606363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91aa59ab0208e534b9ede89d208ee894, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1936606367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936606363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b40e181ef7f384f5e895d4dc3eee0702, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  voice: Dalton
+  _dialogue: Hello I am Psychiaitrist2
+--- !u!114 &1936606368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936606363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be9ca99520944401d866a23dca97c8e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1936606369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936606363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b40e181ef7f384f5e895d4dc3eee0702, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  voice: 
+  _dialogue: 
+--- !u!136 &1936606370
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936606363}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 2
+  m_Direction: 1
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1936606371
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936606363}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_RenderingLayerMask: 257
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1936606372
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936606363}
+  m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!43 &1947912085
 Mesh:
   m_ObjectHideFlags: 0
@@ -47283,7 +47542,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e113d6656d5782849a0c0f56ec4191eb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e113d6656d5782849a0c0f56ec4191eb, type: 3}
       propertyPath: m_LocalPosition.z
@@ -47319,12 +47578,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e113d6656d5782849a0c0f56ec4191eb, type: 3}
       propertyPath: m_Name
-      value: psychaitrist2 (1)
+      value: psychaitrist1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e113d6656d5782849a0c0f56ec4191eb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 269352112}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e113d6656d5782849a0c0f56ec4191eb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 269352111}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e113d6656d5782849a0c0f56ec4191eb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 269352110}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e113d6656d5782849a0c0f56ec4191eb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 269352109}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e113d6656d5782849a0c0f56ec4191eb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 269352108}
   m_SourcePrefab: {fileID: 100100000, guid: e113d6656d5782849a0c0f56ec4191eb, type: 3}
 --- !u!1 &1972979374
 GameObject:
