@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Bedlam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E78B8140-1305-6D7F-6DBB-1C277220CA76}|Assembly-CSharp.csproj|c:\\bedlam\\assets\\miles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E78B8140-1305-6D7F-6DBB-1C277220CA76}|Assembly-CSharp.csproj|c:\\bedlam\\assets\\psychaitrist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78B8140-1305-6D7F-6DBB-1C277220CA76}|Assembly-CSharp.csproj|solutionrelative:assets\\psychaitrist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78B8140-1305-6D7F-6DBB-1C277220CA76}|Assembly-CSharp.csproj|C:\\Bedlam\\assets\\miles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E78B8140-1305-6D7F-6DBB-1C277220CA76}|Assembly-CSharp.csproj|solutionrelative:assets\\miles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11630E59-C8BC-7012-53A2-78AD7145F8D2}|lmnt.unity.runtime.csproj|C:\\Bedlam\\packages\\com.lmnt.unity\\runtime\\lmntspeech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11630E59-C8BC-7012-53A2-78AD7145F8D2}|lmnt.unity.runtime.csproj|solutionrelative:packages\\com.lmnt.unity\\runtime\\lmntspeech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E78B8140-1305-6D7F-6DBB-1C277220CA76}|Assembly-CSharp.csproj|c:\\bedlam\\assets\\psychiaitrist2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78B8140-1305-6D7F-6DBB-1C277220CA76}|Assembly-CSharp.csproj|solutionrelative:assets\\psychiaitrist2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|C:\\Bedlam\\packages\\com.lmnt.unity\\editor\\lmntspeechinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|solutionrelative:packages\\com.lmnt.unity\\editor\\lmntspeechinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|C:\\Bedlam\\packages\\com.lmnt.unity\\editor\\configurewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|solutionrelative:packages\\com.lmnt.unity\\editor\\configurewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11630E59-C8BC-7012-53A2-78AD7145F8D2}|lmnt.unity.runtime.csproj|C:\\Bedlam\\packages\\com.lmnt.unity\\runtime\\lmntspeech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11630E59-C8BC-7012-53A2-78AD7145F8D2}|lmnt.unity.runtime.csproj|solutionrelative:packages\\com.lmnt.unity\\runtime\\lmntspeech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|C:\\Bedlam\\packages\\com.lmnt.unity\\editor\\configurewindow.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|solutionrelative:packages\\com.lmnt.unity\\editor\\configurewindow.uss||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|C:\\Bedlam\\packages\\com.lmnt.unity\\editor\\configurewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|solutionrelative:packages\\com.lmnt.unity\\editor\\configurewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}|lmnt.unity.editor.csproj|C:\\Bedlam\\packages\\com.lmnt.unity\\editor\\vsattribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,31 +47,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Psychaitrist1.cs",
+              "DocumentMoniker": "C:\\Bedlam\\Assets\\Psychaitrist1.cs",
+              "RelativeDocumentMoniker": "Assets\\Psychaitrist1.cs",
+              "ToolTip": "C:\\Bedlam\\Assets\\Psychaitrist1.cs",
+              "RelativeToolTip": "Assets\\Psychaitrist1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:51:51.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Miles.cs",
               "DocumentMoniker": "C:\\Bedlam\\Assets\\Miles.cs",
               "RelativeDocumentMoniker": "Assets\\Miles.cs",
               "ToolTip": "C:\\Bedlam\\Assets\\Miles.cs",
               "RelativeToolTip": "Assets\\Miles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T17:39:40.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "psychiaitrist2.cs",
+              "DocumentMoniker": "C:\\Bedlam\\Assets\\psychiaitrist2.cs",
+              "RelativeDocumentMoniker": "Assets\\psychiaitrist2.cs",
+              "ToolTip": "C:\\Bedlam\\Assets\\psychiaitrist2.cs",
+              "RelativeToolTip": "Assets\\psychiaitrist2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:42:02.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LMNTSpeech.cs",
               "DocumentMoniker": "C:\\Bedlam\\Packages\\com.lmnt.unity\\Runtime\\LMNTSpeech.cs",
               "RelativeDocumentMoniker": "Packages\\com.lmnt.unity\\Runtime\\LMNTSpeech.cs",
               "ToolTip": "C:\\Bedlam\\Packages\\com.lmnt.unity\\Runtime\\LMNTSpeech.cs",
               "RelativeToolTip": "Packages\\com.lmnt.unity\\Runtime\\LMNTSpeech.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T16:23:27.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ConfigureWindow.uss",
               "DocumentMoniker": "C:\\Bedlam\\Packages\\com.lmnt.unity\\Editor\\ConfigureWindow.uss",
               "RelativeDocumentMoniker": "Packages\\com.lmnt.unity\\Editor\\ConfigureWindow.uss",
@@ -75,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ConfigureWindow.cs",
               "DocumentMoniker": "C:\\Bedlam\\Packages\\com.lmnt.unity\\Editor\\ConfigureWindow.cs",
               "RelativeDocumentMoniker": "Packages\\com.lmnt.unity\\Editor\\ConfigureWindow.cs",
@@ -87,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "VSAttribution.cs",
               "DocumentMoniker": "C:\\Bedlam\\Packages\\com.lmnt.unity\\Editor\\VSAttribution.cs",
               "RelativeDocumentMoniker": "Packages\\com.lmnt.unity\\Editor\\VSAttribution.cs",
@@ -99,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LMNTSpeechInspector.cs",
               "DocumentMoniker": "C:\\Bedlam\\Packages\\com.lmnt.unity\\Editor\\LMNTSpeechInspector.cs",
               "RelativeDocumentMoniker": "Packages\\com.lmnt.unity\\Editor\\LMNTSpeechInspector.cs",

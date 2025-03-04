@@ -62,12 +62,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Miles.cs" />
+    <Compile Include="Assets\psychiaitrist2.cs" />
+    <Compile Include="Assets\Psychaitrist1.cs" />
     <Compile Include="Assets\ModularFirstPersonController\FirstPersonController\FirstPersonController.cs" />
     <Compile Include="Assets\Sanity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Resources\LMNT_API_Key.txt" />
     <None Include="Assets\Resources\LMNT_Voices.txt" />
+    <None Include="Assets\Characters\Psychiatrist\psychaitrist2_ImportInfo.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1208,6 +1211,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="soupday.cc3_unity_tools.editor.csproj">
+      <Project>{9A409F4D-96AB-CFF7-D265-228A6611B6A9}</Project>
+      <Name>soupday.cc3_unity_tools.editor</Name>
+    </ProjectReference>
     <ProjectReference Include="lmnt.unity.editor.csproj">
       <Project>{4962A40B-4EBE-4EA2-3A69-E9918A5DDBEC}</Project>
       <Name>lmnt.unity.editor</Name>
@@ -1215,6 +1222,10 @@
     <ProjectReference Include="lmnt.unity.runtime.csproj">
       <Project>{11630E59-C8BC-7012-53A2-78AD7145F8D2}</Project>
       <Name>lmnt.unity.runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="soupday.cc3_unity_tools.runtime.csproj">
+      <Project>{E98906A0-31B2-A3AF-9B98-6E41BED4E0D6}</Project>
+      <Name>soupday.cc3_unity_tools.runtime</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
