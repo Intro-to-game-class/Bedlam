@@ -1,0 +1,17 @@
+logType=HighQuality
+generation=G3Plus
+isLOD=false
+qualEyes=Parallax
+qualHair=TwoPass
+bakeIsBaked=false
+tempHairBake=true
+bakeCustomShaders=true
+bakeSeparatePrefab=true
+shaderFlags=-1
+animationSetup=true
+animationRetargeted=2
+rigOverride=Humanoid
+GUIDRemap=54577007adb28ae48886133c15c43670|f1c4370009aa2a745beeb6a772b753d1
+GUIDRemap=e5921b319a6b04f44932f8ba9c7cae94|a929539cb69a1654cbadf4988fe059e8
+GUIDRemap=73c617b57a2442b488d33ea9d30f935c|8208dd3215580f84792f234a3cac2982
+GUIDRemap=cfe0e512321268044850d5cd9075b8f6|092d45b2c4087744f854a92904028948
