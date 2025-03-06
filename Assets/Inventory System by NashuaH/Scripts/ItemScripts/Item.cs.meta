@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8e63ce81d1de48343862dbb33f4fda3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209330
+  packageName: Basic Inventory System - Save and Stack Items
+  packageVersion: 2.0
+  assetPath: Assets/Inventory System by NashuaH/Scripts/ItemScripts/Item.cs
+  uploadId: 638679

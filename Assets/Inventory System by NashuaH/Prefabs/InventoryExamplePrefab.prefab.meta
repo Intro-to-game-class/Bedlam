@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 46cd8e79fd3ddd644a9ec5c5b7dcd8e5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209330
+  packageName: Basic Inventory System - Save and Stack Items
+  packageVersion: 2.0
+  assetPath: Assets/Inventory System by NashuaH/Prefabs/InventoryExamplePrefab.prefab
+  uploadId: 638679
