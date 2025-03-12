@@ -15,6 +15,6 @@ public class Miles : MonoBehaviour
 
     void Update()
     {
-        StartCoroutine(speech.Talk());
+        // StartCoroutine(speech.Talk());
     }
 }
