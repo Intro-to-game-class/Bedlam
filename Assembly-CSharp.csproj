@@ -82,6 +82,7 @@
     <None Include="Assets\Characters\again\again_ImportInfo.txt" />
     <None Include="Assets\Resources\LMNT_API_Key.txt" />
     <None Include="Assets\Resources\LMNT_Voices.txt" />
+    <None Include="Assets\Characters\Psychiatrist\psychaitrist2_ImportInfo.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
