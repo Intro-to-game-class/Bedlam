@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5c6be17b61c7da948a6fd93ac1c87944
+timeCreated: 1492336011
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88464
+  packageName: HDRP Interior Lighting Template Vol.2
+  packageVersion: 2.1
+  assetPath: Assets/HD_InteriorLightingVol.2/Models/Materials/GDLM34_builtInMatMacScreenFr.mat
+  uploadId: 469752

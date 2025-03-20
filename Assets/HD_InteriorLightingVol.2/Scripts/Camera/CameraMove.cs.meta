@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 587d51207383f2a4a93ac2168564183b
+timeCreated: 1492339055
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88464
+  packageName: HDRP Interior Lighting Template Vol.2
+  packageVersion: 2.1
+  assetPath: Assets/HD_InteriorLightingVol.2/Scripts/Camera/CameraMove.cs
+  uploadId: 469752

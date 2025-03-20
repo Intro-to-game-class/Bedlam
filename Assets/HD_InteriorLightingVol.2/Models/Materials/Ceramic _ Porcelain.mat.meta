@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ea6f3b20dbdba004380a41ea5bb3f13e
+timeCreated: 1492336011
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88464
+  packageName: HDRP Interior Lighting Template Vol.2
+  packageVersion: 2.1
+  assetPath: Assets/HD_InteriorLightingVol.2/Models/Materials/Ceramic _ Porcelain.mat
+  uploadId: 469752

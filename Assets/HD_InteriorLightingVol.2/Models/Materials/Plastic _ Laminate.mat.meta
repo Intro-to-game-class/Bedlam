@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 062b37142ec74b24cbb97e39e7748e7e
+timeCreated: 1492336012
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88464
+  packageName: HDRP Interior Lighting Template Vol.2
+  packageVersion: 2.1
+  assetPath: Assets/HD_InteriorLightingVol.2/Models/Materials/Plastic _ Laminate.mat
+  uploadId: 469752

@@ -72,6 +72,7 @@
     <Compile Include="Assets\Inventory System by NashuaH\Scripts\ItemScripts\Resource.cs" />
     <Compile Include="Assets\Psychaitrist1.cs" />
     <Compile Include="Assets\ModularFirstPersonController\FirstPersonController\FirstPersonController.cs" />
+    <Compile Include="Assets\HD_InteriorLightingVol.2\Scripts\Camera\CameraMove.cs" />
     <Compile Include="Assets\Sanity.cs" />
     <Compile Include="Assets\Inventory System by NashuaH\Scripts\ItemInfoUpdate.cs" />
     <Compile Include="Assets\Inventory System by NashuaH\Scripts\ItemScripts\Consumable.cs" />

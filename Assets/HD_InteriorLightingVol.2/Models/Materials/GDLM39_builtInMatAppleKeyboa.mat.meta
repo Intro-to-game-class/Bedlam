@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4129d1d598ff82e40974ed52c798d7f5
+timeCreated: 1492336011
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88464
+  packageName: HDRP Interior Lighting Template Vol.2
+  packageVersion: 2.1
+  assetPath: Assets/HD_InteriorLightingVol.2/Models/Materials/GDLM39_builtInMatAppleKeyboa.mat
+  uploadId: 469752

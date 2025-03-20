@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f9eafb27dd8f15459f8a448bc4d3cfa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88464
+  packageName: HDRP Interior Lighting Template Vol.2
+  packageVersion: 2.1
+  assetPath: Assets/HD_InteriorLightingVol.2/Scene/Test1Settings.lighting
+  uploadId: 469752

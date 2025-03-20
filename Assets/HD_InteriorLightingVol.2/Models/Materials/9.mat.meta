@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7044fe26db73d8047909e88f3dc4505c
+timeCreated: 1492336010
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88464
+  packageName: HDRP Interior Lighting Template Vol.2
+  packageVersion: 2.1
+  assetPath: Assets/HD_InteriorLightingVol.2/Models/Materials/9.mat
+  uploadId: 469752

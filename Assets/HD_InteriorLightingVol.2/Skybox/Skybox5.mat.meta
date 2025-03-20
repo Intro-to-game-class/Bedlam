@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: abff6def28570f140ade5747d7fe1b2f
+timeCreated: 1491480490
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88464
+  packageName: HDRP Interior Lighting Template Vol.2
+  packageVersion: 2.1
+  assetPath: Assets/HD_InteriorLightingVol.2/Skybox/Skybox5.mat
+  uploadId: 469752

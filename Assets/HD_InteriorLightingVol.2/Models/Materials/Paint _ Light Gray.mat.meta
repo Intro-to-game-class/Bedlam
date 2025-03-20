@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9c6e1ccea8e08ec41bf465c4ef01b87d
+timeCreated: 1492336013
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88464
+  packageName: HDRP Interior Lighting Template Vol.2
+  packageVersion: 2.1
+  assetPath: Assets/HD_InteriorLightingVol.2/Models/Materials/Paint _ Light Gray.mat
+  uploadId: 469752
