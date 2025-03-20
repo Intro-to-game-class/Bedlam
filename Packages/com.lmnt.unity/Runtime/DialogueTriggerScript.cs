@@ -1,4 +1,5 @@
 using LMNT;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -20,9 +21,11 @@ public class DialogueTriggerScript : MonoBehaviour {
     }
 
     void Update() {
-        if (Input.GetKeyDown("q") || Input.GetKeyDown("escape")) {
+        // commented out the keybinds that came with this plugin, but didn't delete them outright in case we need it?
+        
+        /* if (Input.GetKeyDown("q") || Input.GetKeyDown("escape")) {
             Application.Quit();
-        }
+        } */
 
         if (!audioSource.isPlaying) {
             triggered = false;
@@ -31,13 +34,22 @@ public class DialogueTriggerScript : MonoBehaviour {
             return;
         }
 
-        if (Input.GetKeyDown("return") || Input.GetKeyDown("enter")) {
+        /* if (Input.GetKeyDown("return") || Input.GetKeyDown("enter")) {
 			StartCoroutine(speech.Talk());
-        }
+        } */
 
         if (audioSource.isPlaying) {
             animator.SetTrigger("Talk");
             triggered = true;
+        }
+    }
+
+    void OnTriggerEnter (Collider coll) {
+        if (coll.CompareTag ("Player")) {
+            
+            if (Input.GetKeyDown("e")) {
+                StartCoroutine(speech.Talk());
+            }
         }
     }
 }
